@@ -59,5 +59,5 @@ if __name__=="__main__":
     q3.setRight(q7)
     Node.show(q1)
     Node.show(q1)
-    ans=p1.isSameTree(p1,q1)
+    ans=Node.isSameTree(p1,q1)
     print(ans)
